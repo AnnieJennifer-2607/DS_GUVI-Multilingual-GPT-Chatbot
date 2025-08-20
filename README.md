@@ -63,7 +63,7 @@ Many platforms limit chatbots to English, restricting accessibility for non-Engl
 
 ## 🌐 Live Demo  
 
-> 🎉 The chatbot is live on **Hugging Face Spaces**!  
+> The chatbot is live on **Hugging Face Spaces**!  
 > Click below to interact with it in your favorite language:  
 
-👉 [**Launch Multilingual GUVI Chatbot** 🚀](https://huggingface.co/spaces/AnnieVin/Multilingual_Guvi_Chatbot)
+👉 [**Launch Multilingual GUVI Chatbot**](https://huggingface.co/spaces/AnnieVin/Multilingual_Guvi_Chatbot)
